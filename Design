@@ -1,0 +1,11 @@
+Low Level Design
+
+1. Data Sensing Module
+2. Data Acquisition Module
+3. Data Storage Module
+4. Data Processing Module
+
+High Level Design
+
+1. GPS module
+2. GSM module
